@@ -9,3 +9,5 @@ Squares on a plane are colored variously either black or white. We arbitrarily i
 - At a black square, turn 90° counter-clockwise, flip the color of the square, move forward one unit
 
 Find out more info via https://en.wikipedia.org/wiki/Langton%27s_ant
+
+You can view a visual simulation on https://damilaresamuel-langtonsant.netlify.app/
